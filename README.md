@@ -11,4 +11,4 @@ By selecting/deselecting individual stock names, chart adds/removes those stocks
 
 Application is running at: https://geekbert.shinyapps.io/franksenhancedcourseproject/
 
-Slidify presentation to motivate shiny app is here: http://geekbert.github.io/DevelopingDataProductsSlidify
+Slidify presentation to motivate shiny app is here: http://geekbert.github.io/DevelopingDataProductsSlidifyenhanced/#1
